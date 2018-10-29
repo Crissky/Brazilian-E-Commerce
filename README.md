@@ -25,6 +25,9 @@ On "heat_map_brazilian_e_commerce.html", you can see where each person bought a 
 ### Expense on Rio Grande do Norte ⁴
 On "Gasto_com_ecommerce_por_municipio_do_RN.ipynb" it's made an view to the expense on each city on Rio Grande do Norte.
 
+# About the files
+This project is divided into notebooks, where each part of it is composed of a different notebook. For an overview of the work see the slides folder and choose a format you like.
+
 # Sources
 - https://github.com/tbrugz/geodata-br
 - Link to the database: https://www.kaggle.com/olistbr/brazilian-ecommerce

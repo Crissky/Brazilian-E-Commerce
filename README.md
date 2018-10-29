@@ -17,7 +17,7 @@ This project is an analysis of how was Brazilian e-commerce, in 2017. In slide (
 On "brasil_estados.geojson", you can see how many each state expense on online products, just clicking on the state.
 
 ### Purchasing Evaluation ²
-One of the most important thing when someone buy a product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars".
+One of the most important thing when someone buy a product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars", you can see this one on "avaliacoes_html" path.
 
 ### Heatmap on Brazil ³
 On "heat_map_brazilian_e_commerce.html", you can see where each person bought a product online.

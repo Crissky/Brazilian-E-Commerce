@@ -34,3 +34,6 @@ This project is divided into notebooks, where each part of it is composed of a d
 
 # More
 The numbers after e-mail it's to notify who made what on "The project section".
+
+# Slides
+https://goo.gl/6UG8HY

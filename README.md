@@ -20,7 +20,7 @@ On "heat_map_brazilian_e_commerce.html", you can see where each person bought a 
 On "brasil_estados.geojson", you can see how many each state expense on online products, just clicking on the state. ¹
 
 ### Purchasing Evaluation
-One of the most important thing when someone buy an product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars". ²
+One of the most important thing when someone buy a product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars". ²
 
 # Sources
 - https://github.com/tbrugz/geodata-br

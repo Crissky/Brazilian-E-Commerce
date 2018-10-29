@@ -13,14 +13,17 @@ E-Commerce in Brazil is one of the most important for the economy. In 2017, only
 ## The project
 This project is an analysis of how was Brazilian e-commerce, in 2017. In slide (on this repository), it's possible to see how was the e-commerce on this troubled year for the Brazilian economy. We have shown how where were the places that more people buy and not just this, but how was the situation on our state ( Rio Grande do Norte ) on this platform.   
 
-### Heatmap on Brazil
-On "heat_map_brazilian_e_commerce.html", you can see where each person bought a product online. ³
+### Expense by state ¹
+On "brasil_estados.geojson", you can see how many each state expense on online products, just clicking on the state.
 
-### Expense by state
-On "brasil_estados.geojson", you can see how many each state expense on online products, just clicking on the state. ¹
+### Purchasing Evaluation ²
+One of the most important thing when someone buy a product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars".
 
-### Purchasing Evaluation
-One of the most important thing when someone buy a product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars". ²
+### Heatmap on Brazil ³
+On "heat_map_brazilian_e_commerce.html", you can see where each person bought a product online.
+
+### Expense on Rio Grande do Norte ⁴
+On "Gasto_com_ecommerce_por_municipio_do_RN.ipynb" it's made an view to the expense on each city on Rio Grande do Norte.
 
 # Sources
 - https://github.com/tbrugz/geodata-br

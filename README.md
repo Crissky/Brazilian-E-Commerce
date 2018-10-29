@@ -19,7 +19,7 @@ On "brasil_estados.geojson", you can see how many each state expense on online p
 ### Purchasing Evaluation ²
 One of the most important thing when someone buy a product it's to find what the users are saying about that product, so it's made an analysis about what's the best states on "stars", you can see this one on "avaliacoes_html" path.
 
-### Heatmap on Brazil ³
+### Heat map on Brazil ³
 On "heat_map_brazilian_e_commerce.html", you can see where each person bought a product online.
 
 ### Expense on Rio Grande do Norte ⁴
